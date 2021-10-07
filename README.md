@@ -22,14 +22,14 @@ Here is the [guide]() to List your Universitie's blockchain association/club to 
 	<tr>
 		<td>
 			<a href="https://thublockchain.org/">
-        <img src="./Assets/Logos/Tsinghua University.jpg" alt="Tsinghua University" style="zoom:10%;"/>
-      </a>
+        		<img src="./Assets/Logos/Tsinghua University.jpg" alt="Tsinghua University" style="zoom:10%;"/>
+      		</a>
 		</td>
 		<td>
-      <a href="https://yonseiblockchainlab.com/">
-        <img src="./Assets/Logos/Yonsei University.jpg" alt="Yonsei University" style="zoom:10%;"/>
-      </a>
-    </td>
+      		<a href="https://yonseiblockchainlab.com/">
+        		<img src="./Assets/Logos/Yonsei University.jpg" alt="Yonsei University" style="zoom:10%;"/>
+      		</a>
+    	</td>
 	</tr>
 	<tr>
 		<td>
@@ -48,6 +48,10 @@ Here is the [guide]() to List your Universitie's blockchain association/club to 
 <iframe src="https://calendar.google.com/calendar/embed?src=bbfgoeih509oahlijun0vi0en4%40group.calendar.google.com&ctz=America%2FVancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Resources
+
+1. Courses Outline
+2. Researches on the industry
+3. Researches on projects.
 
 
 
