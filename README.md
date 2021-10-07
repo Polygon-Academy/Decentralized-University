@@ -11,8 +11,8 @@ University Alliance is a decentralized organization proposed by:
 This Initiative is to unite all Universities Students around the world, **an open community to learn and realize the potentials of blockchain together**.
 
 ## How to?
-- How to [***Join***](./Guides/How_to_Join_University_DAO.md) the University DAO
-- How to [***Contribute***](./Guides/How_to_Contribute_to_University_DAO.md) to the University DAO
+- How to [***Join***](./Manuals/How_to_Join_University_DAO.md) the University DAO
+- How to [***Contribute***](./Manuals/How_to_Contribute_to_University_DAO.md) to the University DAO
 - How to Propose an Event?
 
 <br>
