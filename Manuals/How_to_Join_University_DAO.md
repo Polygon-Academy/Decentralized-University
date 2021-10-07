@@ -9,11 +9,10 @@ There are three types of contributors for this DAO:
 <br/>
 
 ## As a **University Blockchain Association**
-----
 
 1. Fork this Repo
 2. Add your Logo image in a web-safe format to the `Assets\Logos` folder, name your logo as `Your_University.jpg/png`.
-3. Update your logo and website on `READEME.md`, under `Universities` Table: 
+3. Update your logo and website on `READEME.md`, under `Our University Members` Table: 
 
     Here is an Example:
     ```html
@@ -46,7 +45,6 @@ There are three types of contributors for this DAO:
 <br>
 
 ## As a **Individual Scholars/Instructors**
-----
 
 This procedure is available for contributor who already contributed.
 
@@ -62,6 +60,5 @@ This procedure is available for contributor who already contributed.
 5. Contact seongjinwoo@outlook.com via email to let the admin knows that you would like to join this community. School emails are preferred for contacts.
 
 ## As a **Company/Project Partners**
-----
 
 Please contact seongjinwoo@outlook.com via email for further discussion.
