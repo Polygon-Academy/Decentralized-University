@@ -14,7 +14,7 @@ University Alliance is a decentralized organization proposed by
 
 ## Universities
 
-Here is the [guide]() to List your Universitie's blockchain association/club to the repo.
+Here is the [guide](./Guides/How_to_Join_University_DAO.md) to List your Universitie's blockchain association/club to the repo.
 
 *Click on the logo below to learn more about each association*
 
@@ -22,12 +22,12 @@ Here is the [guide]() to List your Universitie's blockchain association/club to 
 	<tr>
 		<td>
 			<a href="https://thublockchain.org/">
-        		<img src="./Assets/Logos/Tsinghua University.jpg" alt="Tsinghua University" style="zoom:10%;"/>
+        		<img src="./Assets/Logos/Tsinghua_University.jpg" alt="Tsinghua_University" style="zoom:10%;"/>
       		</a>
 		</td>
 		<td>
       		<a href="https://yonseiblockchainlab.com/">
-        		<img src="./Assets/Logos/Yonsei University.jpg" alt="Yonsei University" style="zoom:10%;"/>
+        		<img src="./Assets/Logos/Yonsei_University.jpg" alt="Yonsei_University" style="zoom:10%;"/>
       		</a>
     	</td>
 	</tr>
@@ -40,6 +40,8 @@ Here is the [guide]() to List your Universitie's blockchain association/club to 
 		</td>
 	</tr>
 </table>
+
+## Contributors
 
 
 
