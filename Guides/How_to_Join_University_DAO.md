@@ -51,9 +51,9 @@ There are three types of contributors for this DAO:
 This procedure is available for contributor who already contributed.
 
 1. Fork this Repo
-2. Add your Name to the contributor list with your social profile link available, under `Contributors` List:
+2. Add your Name to the contributor list with your social profile link available, in `Contributors.md` file:
     ```md
-    [Brian Seong](https://www.linkedin.com/in/brian-seong-0185441a1/)
+    [Your Name](Your_Linkedin_Link), Your University
     ```
 3. Commit your repo and create your pull request
     ```bash

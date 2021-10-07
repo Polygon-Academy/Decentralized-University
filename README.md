@@ -41,10 +41,6 @@ Here is the [guide](./Guides/How_to_Join_University_DAO.md) to List your Univers
 	</tr>
 </table>
 
-## Contributors
-
-
-
 ## Events
 
 <iframe src="https://calendar.google.com/calendar/embed?src=bbfgoeih509oahlijun0vi0en4%40group.calendar.google.com&ctz=America%2FVancouver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
