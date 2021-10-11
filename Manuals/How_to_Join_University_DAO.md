@@ -18,17 +18,15 @@ There are three types of contributors for this DAO:
     ```html
     <table>
       <tr>
-        <td>
-          <a href="https://thublockchain.org/">
-            <img src="./Assets/Logos/Tsinghua_University.jpg" alt="Tsinghua_University" style="zoom:10%;"/>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Tsinghua University - THUBA
-        </td>
-      </tr>
+		    <td>
+        	<img src="./Assets/Logos/Tsinghua_University.jpg" alt="Tsinghua_University" style="zoom:10%;"/>
+		    </td>
+	    </tr>
+	    <tr>
+		    <td>
+			    <a href="https://thublockchain.org/">Tsinghua University - THUBA</a>
+		    </td>
+	    </tr>
     </table>
     ```
 4. Commit your repo and create your pull request.
@@ -42,7 +40,7 @@ There are three types of contributors for this DAO:
 > 1. keep in mind that only 5 logos per row, so if the latest row is full, please add another row to append your logo.
 > 2. The logo should be in Square Dimentions.
 
-<br>
+<br/>
 
 ## As a **Individual Scholars/Instructors**
 

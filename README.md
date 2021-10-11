@@ -27,27 +27,21 @@ TODOs:
 
 Here is the [guide](./Guides/How_to_Join_University_DAO.md) to List your Universitie's blockchain association/club to the repo.
 
-*Click on the logo below to learn more about each association*
-
 <table>
 	<tr>
 		<td>
-			<a href="https://thublockchain.org/">
-        		<img src="./Assets/Logos/Tsinghua_University.jpg" alt="Tsinghua_University" style="zoom:10%;"/>
-      		</a>
+        	<img src="./Assets/Logos/Tsinghua_University.jpg" alt="Tsinghua_University" style="zoom:10%;"/>
 		</td>
 		<td>
-      		<a href="https://yonseiblockchainlab.com/">
-        		<img src="./Assets/Logos/Yonsei_University.jpg" alt="Yonsei_University" style="zoom:10%;"/>
-      		</a>
+			<img src="./Assets/Logos/Yonsei_University.jpg" alt="Yonsei_University" style="zoom:10%;"/>
     	</td>
 	</tr>
 	<tr>
 		<td>
-			Tsinghua University - THUBA
+			<a href="https://thublockchain.org/">Tsinghua University - THUBA</a>
 		</td>
 		<td>
-			Yonsei University
+			<a href="https://yonseiblockchainlab.com/">Yonsei University</a>
 		</td>
 	</tr>
 </table>
