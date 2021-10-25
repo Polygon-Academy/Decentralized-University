@@ -1,4 +1,4 @@
-# University-Alliance
+# Decentraliz University
 
 **English** | 中文(Need to be translated) | 한국어(Need to be translated)
 
@@ -10,8 +10,6 @@ This Initiative is to unite all Universities Students around the world, **an ope
 - How to [***Join***](./Manuals/How_to_Join_Decentralize_University.md) the Decentralize University
 - How to [***Contribute***](./Manuals/How_to_Contribute_to_Decentralize_University.md) to the Decentralize University
 - How to Propose an Event? (WIP)
-
-<br>
 
 ## Events/Social Platforms
 
