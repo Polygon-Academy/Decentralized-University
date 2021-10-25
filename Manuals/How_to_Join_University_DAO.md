@@ -2,13 +2,21 @@
 
 There are three types of contributors for this DAO:
 
-- University Blockchain Association
-- Individual Contributors: Scholars/Instructors/Developers/Researchers/Students
-- Company/Project Partners
+- **Category 1**: University Blockchain Association
+- **Category 2**: Individual Contributors: Scholars/Instructors/Developers/Researchers/Students
+- **Category 3**: Education Institutions/Education Communities/Instructors
+- **Category 4**: Company/Project Partners
 
 <br/>
 
-## As a **University Blockchain Association**
+## 1. As a **University Blockchain Association**
+
+### Requirements:
+
+- Your Association should be founded in the University/College Community.
+- Enthusiam in Blockchain and willing to learn from the community. Definitely encourage your association to share your understandings and insights to the community as well.
+
+### Procedure:
 
 1. Fork this Repo
 2. Add your Logo image in a web-safe format to the `Assets\Logos` folder, name your logo as `Your_University.jpg/png`.
@@ -33,18 +41,22 @@ There are three types of contributors for this DAO:
     ```bash
     git commit -m "Add 'University Name - Your club name' to Universities List"
     ```
-5. Contact seongjinwoo@outlook.com via email to let the admin knows that your association/club would like to join this community. School emails are preferred for contacts.
+5. Contact DecentralizeUni@gmail.com via email to let the admin knows that your association/club would like to join this community. School emails are preferred for contacts.
 
-### Reminder
+##### Reminder
 
 > 1. keep in mind that only 5 logos per row, so if the latest row is full, please add another row to append your logo.
 > 2. The logo should be in Square Dimentions.
 
 <br/>
 
-## As a **Individual Scholars/Instructors**
+## 2. As a **Individual Scholars/Instructors**
 
-This procedure is available for contributor who already contributed.
+### Requirements:
+
+- Your amazing work has been merged into repo after pull requests.
+
+### Procedure:
 
 1. Fork this Repo
 2. Add your Name to the contributor list with your social profile link available, in `Contributors.md` file:
@@ -55,8 +67,20 @@ This procedure is available for contributor who already contributed.
     ```bash
     git commit -m "Add contributor 'Name' to Contributors List"
     ```
-5. Contact seongjinwoo@outlook.com via email to let the admin knows that you would like to join this community. School emails are preferred for contacts.
+5. Contact DecentralizeUni@gmail.com via email to let the admin knows that you would like to join this community. School emails are preferred for contacts.
 
-## As a **Company/Project Partners**
+## 3. As an **Education Institutions/Education Communities/Instructors**
 
-Please contact seongjinwoo@outlook.com via email for further discussion.
+### Requirements:
+
+- List your events on the platform, we would love to have your amazing contents be listed on our repo for all students to learn.
+- Sharing Great Learning resources with the community whenever you would like to share them.
+- Encouraged to host educational events in our community.
+
+### Procedure:
+
+Please contact DecentralizeUni@gmail.com via email for further discussion.
+
+## 4. As a **Company/Project Partners**
+
+Please contact DecentralizeUni@gmail.com via email for further discussion.
