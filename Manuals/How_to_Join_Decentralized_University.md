@@ -1,4 +1,4 @@
-# How to Join Decentralize University
+# How to Join Decentralized University
 
 There are three types of contributors for this DAO:
 
@@ -41,7 +41,7 @@ There are three types of contributors for this DAO:
     ```bash
     git commit -m "Add 'University Name - Your club name' to Universities List"
     ```
-5. Contact DecentralizeUni@gmail.com via email to let the admin knows that your association/club would like to join this community. School emails are preferred for contacts.
+5. Contact decentralizeuni@gmail.com via email to let the admin knows that your association/club would like to join this community. School emails are preferred for contacts.
 
 ##### Reminder
 
@@ -67,7 +67,7 @@ There are three types of contributors for this DAO:
     ```bash
     git commit -m "Add contributor 'Name' to Contributors List"
     ```
-5. Contact DecentralizeUni@gmail.com via email to let the admin knows that you would like to join this community. School emails are preferred for contacts.
+5. Contact decentralizeuni@gmail.com via email to let the admin knows that you would like to join this community. School emails are preferred for contacts.
 
 ## 3. As an **Education Institutions/Education Communities/Instructors**
 
@@ -79,8 +79,8 @@ There are three types of contributors for this DAO:
 
 ### Procedure:
 
-Please contact DecentralizeUni@gmail.com via email for further discussion.
+Please contact decentralizeuni@gmail.com via email for further discussion.
 
 ## 4. As a **Company/Project Partners**
 
-Please contact DecentralizeUni@gmail.com via email for further discussion.
+Please contact decentralizeuni@gmail.com via email for further discussion.
