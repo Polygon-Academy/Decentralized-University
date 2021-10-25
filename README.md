@@ -9,15 +9,18 @@ This Initiative is to unite all Universities Students around the world, **an ope
 ## How to?
 - How to [***Join***](./Manuals/How_to_Join_University_DAO.md) the University DAO
 - How to [***Contribute***](./Manuals/How_to_Contribute_to_University_DAO.md) to the University DAO
-- How to Propose an Event?
+- How to Propose an Event? (WIP)
 
 <br>
 
-## Events
+## Events/Social Platforms
 
-TODOs:
-- List of upcoming events
-- Subscribe to our event announcements
+Come Subscribe to our [Events Calendar](https://calendar.google.com/calendar/u/7?cid=ZGVjZW50cmFsaXplZHVuaUBnbWFpbC5jb20) to stay updated! 
+
+Stay connected with the community here:
+- [Discord](https://discord.gg/sCgMbv3Xus)
+- [Youtube](https://www.youtube.com/channel/UCHHgW953B95eQagoRC4d0BQ/)
+- [Twitter](https://twitter.com/0xDeUniversity)
 
 ## Our University Members
 
