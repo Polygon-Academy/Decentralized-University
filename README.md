@@ -7,8 +7,8 @@
 This Initiative is to unite all Universities Students around the world, **an open community to learn and realize the potentials of blockchain together**.
 
 ## How to?
-- How to [***Join***](./Manuals/How_to_Join_University_DAO.md) the University DAO
-- How to [***Contribute***](./Manuals/How_to_Contribute_to_University_DAO.md) to the University DAO
+- How to [***Join***](./Manuals/How_to_Join_Decentralize_University.md) the Decentralize University
+- How to [***Contribute***](./Manuals/How_to_Contribute_to_Decentralize_University.md) to the Decentralize University
 - How to Propose an Event? (WIP)
 
 <br>
@@ -24,7 +24,7 @@ Stay connected with the community here:
 
 ## Our University Members
 
-Here is the [guide](./Guides/How_to_Join_University_DAO.md) to List your Universitie's blockchain association/club to the repo.
+Here is the [guide](./Manuals/How_to_Join_Decentralize_University.md) to List your Universitie's blockchain association/club to the repo.
 
 <table>
 	<tr>
@@ -45,9 +45,9 @@ Here is the [guide](./Guides/How_to_Join_University_DAO.md) to List your Univers
 	</tr>
 </table>
 
-## Our Partners
+## Our Beloved Educators!
 
-Add first five partners, developers community.
+WIP
 
 ## Resources
 
