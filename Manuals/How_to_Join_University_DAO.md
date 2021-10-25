@@ -18,15 +18,15 @@ There are three types of contributors for this DAO:
     ```html
     <table>
       <tr>
-		    <td>
-        	<img src="./Assets/Logos/Tsinghua_University.jpg" alt="Tsinghua_University" style="zoom:10%;"/>
-		    </td>
-	    </tr>
-	    <tr>
-		    <td>
-			    <a href="https://thublockchain.org/">Tsinghua University - THUBA</a>
-		    </td>
-	    </tr>
+        <td>
+          <img src="./Assets/Logos/Tsinghua_University.jpg" alt="Tsinghua_University" style="zoom:10%;"/>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://thublockchain.org/">Tsinghua University - THUBA</a>
+        </td>
+      </tr>
     </table>
     ```
 4. Commit your repo and create your pull request.
