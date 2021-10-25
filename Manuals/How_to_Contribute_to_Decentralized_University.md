@@ -1,4 +1,4 @@
-# How to Contribute to Decentralize University
+# How to Contribute to Decentralized University
 
 TODO (add different types of contributions and how to)
 
