@@ -4,10 +4,6 @@
 
 ## Introduction
 
-University Alliance is a decentralized organization proposed by:
-- Tsinghua University Student Blockchain Association
-- Yonsei Blockchain Lab
-- 
 This Initiative is to unite all Universities Students around the world, **an open community to learn and realize the potentials of blockchain together**.
 
 ## How to?
