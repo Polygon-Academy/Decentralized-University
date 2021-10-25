@@ -1,4 +1,4 @@
-# How to Contribute to University DAO
+# How to Contribute to Decentralize University
 
 TODO (add different types of contributions and how to)
 

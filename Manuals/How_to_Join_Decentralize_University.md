@@ -1,4 +1,4 @@
-# How to Join University DAO
+# How to Join Decentralize University
 
 There are three types of contributors for this DAO:
 
