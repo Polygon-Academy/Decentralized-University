@@ -2,6 +2,11 @@
 
 TODO (add different types of contributions and how to)
 
+categories:
+- researches: 
+- events
+- tutorials
+
 
 1. how to create event on the calendar?
 2. how to put on your blockchain association's info?
