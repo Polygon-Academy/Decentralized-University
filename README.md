@@ -45,7 +45,18 @@ Here is the [guide](./Manuals/How_to_Join_Decentralized_University.md) to List y
 
 ## Our Beloved Educators!
 
-WIP
+<table>
+	<tr>
+		<td>
+        	<img src="./Assets/Logos/DappLearning-logo-small.png" alt="DappLearning"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/rebase-network/Dapp-Learning">DappLearning</a>
+		</td>
+	</tr>
+</table>
 
 ## Resources
 
