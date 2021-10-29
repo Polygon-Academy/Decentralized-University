@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This Initiative is to unite all Universities Students around the world, **an open community to learn and realize the potentials of blockchain together**.
+This Initiative is to unite all Universities Students around the world, **an open community to learn and realize the potentials of blockchain together**. This Initiative is strongly supported by [Polygon](https://polygon.technology/), the ethereum scaling solution for everyone.
 
 ## How to?
 - How to [***Join***](./Manuals/How_to_Join_Decentralized_University.md) the Decentralized University
@@ -48,10 +48,16 @@ Here is the [guide](./Manuals/How_to_Join_Decentralized_University.md) to List y
 <table>
 	<tr>
 		<td>
+        	<img src="./Assets/Logos/Polygon-Logo.png" alt="Polygon"/>
+		</td>
+		<td>
         	<img src="./Assets/Logos/DappLearning-logo-small.png" alt="DappLearning"/>
 		</td>
 	</tr>
 	<tr>
+		<td>
+			<a href="https://polygon.technology/">Polygon</a>
+		</td>
 		<td>
 			<a href="https://github.com/rebase-network/Dapp-Learning">DappLearning</a>
 		</td>
