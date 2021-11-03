@@ -67,5 +67,6 @@ Here is the [guide](./Manuals/How_to_Join_Decentralized_University.md) to List y
 ## Resources
 
 1. Courses Outline
+	- THUBA [Intro to Blockchain](./Fundamentals/TIBA-Intro_to_Blockchain.md)
 2. Researches on the industry
 3. Researches on projects.
