@@ -1,12 +1,9 @@
-[submodule "THUBA-Labs.github.io"]
-	path = THUBA/THUBA-Labs.github.io
-	url = https://github.com/THUBA-Labs/THUBA-Labs.github.io
-[submodule "Research"]
-	path = THUBA/Research
-	url = https://github.com/THUBA-Labs/Research.git
-[submodule "Hackthons"]
-	path = THUBA/Hackthons
-	url = https://github.com/THUBA-Labs/Hackthons.git
-[submodule "Tutorial"]
-	path = THUBA/Tutorial
-	url = https://github.com/THUBA-Labs/Tutorial.git
+[submodule "Tsinghua-THUBA/Tutorials"]
+	path = Tsinghua-THUBA/Tutorials
+	url = https://github.com/THUBA-Labs/Tutorial
+[submodule "Tsinghua-THUBA/Research"]
+	path = Tsinghua-THUBA/Research
+	url = https://github.com/THUBA-Labs/Research
+[submodule "Tsinghua-THUBA/Hackathons"]
+	path = Tsinghua-THUBA/Hackathons
+	url = https://github.com/THUBA-Labs/Hackthons
