@@ -1,12 +1,12 @@
 [submodule "THUBA-Labs.github.io"]
-	path = THUBA-Labs.github.io
+	path = THUBA/THUBA-Labs.github.io
 	url = https://github.com/THUBA-Labs/THUBA-Labs.github.io
 [submodule "Research"]
-	path = Research
+	path = THUBA/Research
 	url = https://github.com/THUBA-Labs/Research.git
 [submodule "Hackthons"]
-	path = Hackthons
+	path = THUBA/Hackthons
 	url = https://github.com/THUBA-Labs/Hackthons.git
 [submodule "Tutorial"]
-	path = Tutorial
+	path = THUBA/Tutorial
 	url = https://github.com/THUBA-Labs/Tutorial.git
