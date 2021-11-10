@@ -1,5 +1,5 @@
-[submodule "Tsinghua-THUBA/Tutorials"]
-	path = Tsinghua-THUBA/Tutorials
+[submodule "Tsinghua-THUBA/Tutorial"]
+	path = Tsinghua-THUBA/Tutorial
 	url = https://github.com/THUBA-Labs/Tutorial
 [submodule "Tsinghua-THUBA/Research"]
 	path = Tsinghua-THUBA/Research
